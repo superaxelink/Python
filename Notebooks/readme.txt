@@ -1,1 +1,1 @@
-
+Some jupyter notebooks that work with distinct types of datasets, looking to train the proper machine learning model in order to made a correct prediction on each dataset. Some of them are also worked examples from the book "Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurelien Geron. 
